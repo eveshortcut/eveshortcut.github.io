@@ -15,20 +15,22 @@ project_entries:
   - title: J010556-ITER<br>
     url: iter
     desc: Dodixie to Rens in 11 jumps.
+    #highlight: OUT-OF-DATE
 
   - title: J002423-METIOR<br>
     url: metior
     desc: Jita to Amarr in 13 jumps.
+    #highlight: OUT-OF-DATE
 
   - title: J004150-MODICUM<br>
     url: modicum
-    desc: Jita to Amarr in 14 jumps. Currently out-of-date.
-    highlight: CLOSED
+    desc: Jita to Amarr in 14 jumps.
+    highlight: OUT-OF-DATE
 
   - title: J011778-CELER<br>
     url: celer
-    desc: Dodixie to Rens in 12 jumps. Currently out-of-date.
-    highlight: CLOSED
+    desc: Dodixie to Rens in 12 jumps.
+    highlight: OUT-OF-DATE
 
 footer_entries:
   - title: home
