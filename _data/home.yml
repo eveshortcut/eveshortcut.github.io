@@ -12,24 +12,32 @@ navbar_entries:
     url: feed.xml
 
 project_entries:
+- title: How to Use<br>
+    url: instructions
+    desc: How to get started with EVE Shortcut.
+
+  - title: FAQ<br>
+    url: faq
+    desc: Frequently asked questions about EVE Shortcut.
+
   - title: J010556-ITER<br>
     url: iter
-    desc: Dodixie to Rens in 11 jumps.
+    desc: See the most recent map of wormhole system J010556-ITER.
     #highlight: OUT-OF-DATE
 
   - title: J002423-METIOR<br>
     url: metior
-    desc: Jita to Amarr in 13 jumps.
+    desc: See the most recent map of wormhole system J002423-METIOR.
     #highlight: OUT-OF-DATE
 
   - title: J004150-MODICUM<br>
     url: modicum
-    desc: Jita to Amarr in 14 jumps.
+    desc: See the most recent map of wormhole system J004150-MODICUM.
     highlight: OUT-OF-DATE
 
   - title: J011778-CELER<br>
     url: celer
-    desc: Dodixie to Rens in 12 jumps.
+    desc: See the most recent map of wormhole system J011778-CELER.
     highlight: OUT-OF-DATE
 
 footer_entries:
