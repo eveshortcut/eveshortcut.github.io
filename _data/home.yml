@@ -13,22 +13,22 @@ navbar_entries:
 
 project_entries:
   - title: J010556-ITER
-    url: overview-post
+    url: iter
     desc: Dodixie to Rens in 11 jumps.
-    highlight: UP-TO-DATE
 
   - title: J002423-METIOR
-    url: overview-post
+    url: metior
     desc: Jita to Amarr in 13 jumps.
-    highlight: UP-TO-DATE
 
   - title: J004150-MODICUM
-    url: overview-post
-    desc: Jita to Amarr in 14 jumps.
+    url: modicum
+    desc: Jita to Amarr in 14 jumps. Currently out-of-date.
+    highlight: CLOSED
 
   - title: J011778-CELER
-    url: overview-post
-    desc: Dodixie to Rens in 12 jumps.
+    url: celer
+    desc: Dodixie to Rens in 12 jumps. Currently out-of-date.
+    highlight: CLOSED
 
 footer_entries:
   - title: home
