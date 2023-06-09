@@ -12,15 +12,15 @@ navbar_entries:
     url: feed.xml
 
 project_entries:
-  - title: J010556-ITER
+  - title: J010556-ITER<br>
     url: iter
     desc: Dodixie to Rens in 11 jumps.
 
-  - title: J002423-METIOR
+  - title: J002423-METIOR<br>
     url: metior
     desc: Jita to Amarr in 13 jumps.
 
-  - title: J004150-MODICUM
+  - title: J004150-MODICUM<br>
     url: modicum
     desc: Jita to Amarr in 14 jumps. Currently out-of-date.
     highlight: CLOSED
