@@ -25,7 +25,7 @@ project_entries:
     desc: Jita to Amarr in 14 jumps. Currently out-of-date.
     highlight: CLOSED
 
-  - title: J011778-CELER 
+  - title: J011778-CELER<br>
     url: celer
     desc: Dodixie to Rens in 12 jumps. Currently out-of-date.
     highlight: CLOSED
