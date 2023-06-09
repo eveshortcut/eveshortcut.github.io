@@ -2,7 +2,7 @@ title: EVE Shortcut
 author: Jaiden Marstolt
 url: https://eveshortcut.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  EVE Shortcut is an EVE group dedicated to publishing highsec-to-highsec wormhole routes, no scanning needed. See the [Instructions](./instructions/) on how to use our shared bookmarks.
+  EVE Shortcut is an EVE group dedicated to publishing highsec-to-highsec wormhole routes, no scanning needed. See the <a href='./instructions/'>Instructions</a> on how to use our shared bookmarks.
 
 permalink: /:slug
 
